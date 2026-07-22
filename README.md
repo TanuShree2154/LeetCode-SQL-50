@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/TanuShree2154/LeetCode-SQL-50/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/TanuShree2154/LeetCode-SQL-50/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/TanuShree2154/LeetCode-SQL-50/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/TanuShree2154/LeetCode-SQL-50/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/TanuShree2154/LeetCode-SQL-50/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
